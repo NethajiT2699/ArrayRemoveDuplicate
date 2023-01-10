@@ -25,8 +25,8 @@ public class HttpClient {
 	}
 
 	public static void main(String[] args) throws IOException {
-		String response = sendRequest("www.w3schools.com");
-		System.out.println(response);
+		String respons = sendRequest("www.w3schools.com");
+		System.out.println(respons);
 
 	}
 
